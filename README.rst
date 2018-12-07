@@ -1,4 +1,4 @@
-Cookiecutter Django
+Cookiecutter Django (Goose Style)
 =======================
 
 .. image:: https://travis-ci.org/pydanny/cookiecutter-django.svg?branch=master
