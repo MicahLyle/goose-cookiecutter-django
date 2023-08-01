@@ -1,5 +1,5 @@
 cookiecutter==2.2.3
-sh==1.12.14
+sh==2.0.4
 binaryornot==0.4.4
 
 # Code quality
